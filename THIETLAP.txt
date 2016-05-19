@@ -1,0 +1,4 @@
+localhost\sqlexpress
+QuanLyXe
+tranbahoi
+12345678
