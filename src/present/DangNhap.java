@@ -207,5 +207,12 @@ public class DangNhap extends JFrame {
 		return 0;
 
 	}
+
+	public static void main (String [] args) {
+		
+		DangNhap frame = new DangNhap();
+		frame.setVisible(true);
+		
+	}
 	
 }
